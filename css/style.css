@@ -1,0 +1,31 @@
+.main-container {
+	background-color: pink;
+	padding-top: 42px;
+}
+
+.presentation-container {
+	background-color: green;
+	padding-top: 25px;
+}
+
+.name {
+	color: white;
+	font-size: 42px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.aboutme-container {
+	text-align: center;
+	margin-left: 60px;
+	margin-right: 60px;
+	font-size: 20px;
+}
+
+.country-container {
+	text-decoration: underline;
+}
+
+.aboutcountry-container {
+	font-size: 20px;
+}
