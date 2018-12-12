@@ -6,6 +6,7 @@
 .presentation-container {
 	background-color: green;
 	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .name {
@@ -28,4 +29,8 @@
 
 .aboutcountry-container {
 	font-size: 20px;
+}
+
+.image-container {
+	width: 30%;
 }
